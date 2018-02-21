@@ -1,0 +1,5 @@
+[Adblock Plus 1.1]
+prodota.ru#?#.citation:-abp-contains(Adzeery)
+prodota.ru##blockquote[data-author="Adzeery"]
+prodota.ru#?#.post_wrap:-abp-has( h3 > span > a > span:-abp-contains(Adzeery))
+prodota.ru#?#li.clearfix:-abp-has( div.list_content > div > a > span:-abp-contains(Adzeery))
